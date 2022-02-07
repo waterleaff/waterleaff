@@ -1,1 +1,1 @@
-$ git config --global user.name "waterleaff"
+$ git config --global user.name "waterleaff_"
